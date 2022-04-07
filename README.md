@@ -87,6 +87,6 @@ yarn start
 
 Wellington Mazoni de Andrade
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/paucia-lisboa
 
 
