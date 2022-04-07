@@ -1,8 +1,8 @@
 # site-banda
 Projeto FrontEnd: Criação de site
 
-
-# Big Game Survey 
+# JILÓ SOUL BAND
+ 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Paucinha/site-banda/blob/main/LICENSE) 
 
 # Sobre o projeto
