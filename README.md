@@ -22,65 +22,51 @@ Requisitos:
 - Formulário de contato
 - Links redes sociais
 
-## Layout mobile
+## Menu de navegação
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-## Layout web
+## História da banda
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
+## Calendário de apresentações
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
+## Informações de contato
+
+## Formulário de contato
+
+## Links redes sociais
+
 # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+
+## Frontend
+- HTML / CSS / JS
+- Replit
+- GitHub
+
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Frontend web: Replit
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
+## Frontend web
+Pré-requisitos: https://replit.com/
+construção no frontend do projeto utilizando HTML e CSS.
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+```github
+# criar repositório para hospedagem do site
+GitHub https://github.com/Paucinha/site-banda
 
 # entrar na pasta do projeto front end web
-cd front-web
+C:\Users\pauci\OneDrive\Documentos\Site-banda
 
-# instalar dependências
-yarn install
+# adicionar os arquivos
+adicionar os arquivos da pasta Site-banda: agenda.html, fale_conosco.html, index.html, jukeboxmusic.svg, script.js e style.css
 
 # executar o projeto
-yarn start
+replit start
 ```
 
 # Autor
