@@ -9,9 +9,18 @@ Projeto FrontEnd: Criação de site
 
 https://paucinha.github.io/site-banda/
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Nas duas ultimas aulas do curso de Desenvolvimento Web - FrontEnd realizado pela Estação Hack, acontece um mini Hackathon, um tipo de maratona onde squads de desenvolvedores são desafiadas a criar um projeto de site em um curto período de tempo.
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+Com base nos requisitos do desafio, construa o frontend do projeto utilizando HTML e CSS. O projeto não precisa conter lógica de backend, apenas páginas estáticas que simulem seu funcionamento.
+
+Requisitos:
+- Menu de navegação
+- História da banda
+- Integrantes
+- Calendário de apresentações
+- Informações de contato
+- Formulário de contato
+- Links redes sociais
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
