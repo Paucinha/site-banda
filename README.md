@@ -85,7 +85,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+PÁUCIA LIRA NUNES LISBOA
 
 https://www.linkedin.com/in/paucia-lisboa
 
