@@ -33,7 +33,6 @@ Requisitos:
 ![Agenda 2](https://raw.githubusercontent.com/Paucinha/assets/master/agenda2.png)
 
 ## Informações e formulário de contato
-![Contato](https://github.com/Paucinha/assets/blob/master/contato.png?raw=true)
 ![Formulário de contato](https://github.com/Paucinha/assets/blob/master/formcontato.png?raw=true)
 
 ## Links redes sociais
