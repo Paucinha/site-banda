@@ -9,7 +9,7 @@ Projeto FrontEnd: Criação de site
 
 https://paucinha.github.io/site-banda/
 
-Nas duas ultimas aulas do curso de Desenvolvimento Web - FrontEnd realizado pela Estação Hack, acontece um mini Hackathon, um tipo de maratona onde squads de desenvolvedores são desafiadas a criar um projeto de site em um curto período de tempo.
+Nas duas ultimas aulas do curso de Desenvolvimento Web - FrontEnd realizado pela Escola de Programação Cel.Lep Tech e Estação Hack, acontece um mini Hackathon, um tipo de maratona onde squads de desenvolvedores são desafiadas a criar um projeto de site em um curto período de tempo.
 
 Com base nos requisitos do desafio, construa o frontend do projeto utilizando HTML e CSS. O projeto não precisa conter lógica de backend, apenas páginas estáticas que simulem seu funcionamento.
 
@@ -32,12 +32,12 @@ Requisitos:
 ![Agenda 1](https://user-images.githubusercontent.com/99826124/162334437-7b091e9a-3015-406d-9e6d-cf77a99ab2b7.png)
 ![Agenda 2](https://raw.githubusercontent.com/Paucinha/assets/master/agenda2.png)
 
-## Informações de contato
+## Informações e formulário de contato
 ![Contato](https://github.com/Paucinha/assets/blob/master/contato.png?raw=true)
 ![Formulário de contato](https://github.com/Paucinha/assets/blob/master/formcontato.png?raw=true)
 
-
 ## Links redes sociais
+![Redes Sociais](https://raw.githubusercontent.com/Paucinha/assets/master/redessociais.png)
 
 # Tecnologias utilizadas
 
@@ -74,5 +74,3 @@ replit start
 PÁUCIA LIRA NUNES LISBOA
 
 https://www.linkedin.com/in/paucia-lisboa
-
-
