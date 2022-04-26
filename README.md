@@ -23,7 +23,7 @@ Requisitos:
 - Links redes sociais
 
 ## Menu de navegação
-![Navegação](https://github.com/Paucinha/assets/blob/master/menunav.png?raw=true) 
+![Navegação](https://raw.githubusercontent.com/Paucinha/assets/master/menunav.png) 
 
 ## História da banda 
 ![Web](https://github.com/Paucinha/assets/blob/master/historiabanda.png?raw=true)
